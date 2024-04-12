@@ -1,0 +1,14 @@
+/Users/veyselmor/Desktop/works/homework/bin/Debug/net8.0/homework
+/Users/veyselmor/Desktop/works/homework/bin/Debug/net8.0/homework.deps.json
+/Users/veyselmor/Desktop/works/homework/bin/Debug/net8.0/homework.runtimeconfig.json
+/Users/veyselmor/Desktop/works/homework/bin/Debug/net8.0/homework.dll
+/Users/veyselmor/Desktop/works/homework/bin/Debug/net8.0/homework.pdb
+/Users/veyselmor/Desktop/works/homework/obj/Debug/net8.0/homework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/veyselmor/Desktop/works/homework/obj/Debug/net8.0/homework.AssemblyInfoInputs.cache
+/Users/veyselmor/Desktop/works/homework/obj/Debug/net8.0/homework.AssemblyInfo.cs
+/Users/veyselmor/Desktop/works/homework/obj/Debug/net8.0/homework.csproj.CoreCompileInputs.cache
+/Users/veyselmor/Desktop/works/homework/obj/Debug/net8.0/homework.dll
+/Users/veyselmor/Desktop/works/homework/obj/Debug/net8.0/refint/homework.dll
+/Users/veyselmor/Desktop/works/homework/obj/Debug/net8.0/homework.pdb
+/Users/veyselmor/Desktop/works/homework/obj/Debug/net8.0/homework.genruntimeconfig.cache
+/Users/veyselmor/Desktop/works/homework/obj/Debug/net8.0/ref/homework.dll
